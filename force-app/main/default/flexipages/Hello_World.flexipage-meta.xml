@@ -14,10 +14,10 @@
     <flexiPageRegions>
         <componentInstances>
             <componentInstanceProperties>
-                <name>name</name>
+                <name>greeting</name>
                 <value>World</value>
             </componentInstanceProperties>
-            <componentName>helloWorld</componentName>
+            <componentName>helloWorldTwo</componentName>
         </componentInstances>
         <name>region2</name>
         <type>Region</type>
